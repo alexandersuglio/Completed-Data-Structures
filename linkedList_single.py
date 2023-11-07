@@ -1,3 +1,5 @@
+# linkedList_single.py
+
 class Node:
     def __init__(self, key, value):
         self.key = key
@@ -98,6 +100,3 @@ ll.printList()
 
 print("HEAD", ll.getFirst())
 print("TAIL", ll.getLast())
-
-#print(ll.
-# head.data)
