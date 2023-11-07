@@ -1,3 +1,5 @@
+# linkedList_double_middle_insert_del.py
+
 class linkedList:
     def __init__(self):
         self.head = None
@@ -46,7 +48,6 @@ class linkedList:
             self.tail.prevElement = temp
 
         self.size += 1
-
 
     def addToFront(self, data):
 
@@ -99,7 +100,6 @@ class linkedList:
 
         print(self.tail.data)
 
-
     def insertAtIndex(self, data, index):
 
         newAdd = self.node(data, None, None)
@@ -110,11 +110,7 @@ class linkedList:
 
         if index == 0:
             self.addToFront(data)
-
-        # this doesn't work
-        # elif index == self.size - 1:
-        #     self.addToBack(data)
-
+            
         else:
 
             while position < index:
@@ -188,5 +184,4 @@ print()
 print(ll.tail.prevElement.data)
 print(ll.tail.data)
 print(ll.tail.nextElement)
-
 '''
