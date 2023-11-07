@@ -14,3 +14,5 @@ Coming Up
 * AVL Tree (Self Balancing Binary Search Tree)
 * Min Heap (via Binary Search Tree implementation)
 * Max Heap (via Binary Search Tree implementation)
+* Graph
+  
