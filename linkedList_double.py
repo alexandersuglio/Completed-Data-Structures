@@ -1,3 +1,5 @@
+# linkedList_double.py
+
 class linkedList:
     def __init__(self):
         self.head = None
@@ -47,7 +49,6 @@ class linkedList:
 
         self.size += 1
 
-
     def addToFront(self, data):
 
         newAdd = self.node(data, None, None)
@@ -57,7 +58,6 @@ class linkedList:
             self.tail = newAdd
 
         else:
-
             temp = self.head
             self.head.prevElement = newAdd
             self.head = newAdd
@@ -110,10 +110,6 @@ ll.addToBack(53)
 print()
 print()
 
-
-print()
-print()
-
 # ll.printList()
 # ll.addToFront(3)
 # ll.addToFront(0)
@@ -126,12 +122,8 @@ ll.printList()
 print()
 print()
 
-
-
-
 print("HEAD", ll.getFirst())
 print("TAIL", ll.getLast())
-
 
 print()
 
@@ -139,10 +131,8 @@ print()
 print(ll.head.prevElement)
 print(ll.head.data)
 print(ll.head.nextElement.data)
-
 '''
 print()
 print(ll.tail.prevElement.data)
 print(ll.tail.data)
 print(ll.tail.nextElement)
-
