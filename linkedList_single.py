@@ -1,10 +1,10 @@
 # linkedList_single.py
-
 class Node:
     def __init__(self, key, value):
         self.key = key
         self.value = value
         self.next = None
+
 
 class linkedList:
     def __init__(self):
@@ -14,7 +14,6 @@ class linkedList:
 
     class node:
         def __init__(self, data, nextElement):
-
             self.data = data
             self.nextElement = nextElement
 
@@ -58,11 +57,9 @@ class linkedList:
             raise Exception("bad fudge")
 
         else:
-
             newHead = self.head.nextElement
             self.head = None
             self.head = newHead
-
 
     def printList(self):
 
@@ -78,7 +75,6 @@ class linkedList:
 
         print(self.tail.data)
 
-
 ll = linkedList()
 ll.add(13)
 ll.add(23)
@@ -91,11 +87,9 @@ print()
 ll.printList()
 
 print()
-
 print()
 
 ll.delFirst()
-
 ll.printList()
 
 print("HEAD", ll.getFirst())
