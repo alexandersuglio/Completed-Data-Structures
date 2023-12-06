@@ -8,11 +8,11 @@ So far
 * Queue (via LinkedList implementation)
 * HashMap (Linear Probing for Collision Handling)
 * HashMap (Separate Chaining for Collision Handling)
-
-Coming Up
 * Binary Search Tree
 * AVL Tree (Self Balancing Binary Search Tree)
+
+Coming Up
 * Min Heap (via Binary Search Tree implementation)
 * Max Heap (via Binary Search Tree implementation)
-* Graph
+* Graph (Directed and Undirected)
   
