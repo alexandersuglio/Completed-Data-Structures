@@ -1,7 +1,7 @@
 # Completed-Data-Structures
-Since January 2023, I've been on a dedicated journey to learn and master the core data structures essential in computer science and software development.
+Since the beginning of 2023, I've embarked on a journey to learn and master the fundamental data structures crucial to computer science and software development.
 
-So far 
+**So far I've mastered the design and implementations of**
 * Singly LinkedList
 * Doubly LinkedList
 * Stack (via LinkedList implementation)
@@ -11,8 +11,10 @@ So far
 * Binary Search Tree
 * AVL Tree (Self Balancing Binary Search Tree)
 
-Coming Up
+Coming Up / In progress
 * Min Heap (via Binary Search Tree implementation)
 * Max Heap (via Binary Search Tree implementation)
 * Graph (Directed and Undirected)
+
+The language I am using is Python.
   
