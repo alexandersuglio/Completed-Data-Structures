@@ -11,7 +11,7 @@ Since the beginning of 2023, I've embarked on a journey to learn and master the 
 * Binary Search Tree
 * AVL Tree (Self Balancing Binary Search Tree)
 
-Coming Up / In progress
+**Coming Up / In progress**
 * Min Heap (via Binary Search Tree implementation)
 * Max Heap (via Binary Search Tree implementation)
 * Graph (Directed and Undirected)
