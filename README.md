@@ -10,11 +10,13 @@ Since the beginning of 2023, I've embarked on a journey to learn and master the 
 * HashMap (Separate Chaining for Collision Handling)
 * Binary Search Tree
 * AVL Tree (Self Balancing Binary Search Tree)
-
-**Coming Up / In progress**
-* Min Heap (via Binary Search Tree implementation)
-* Max Heap (via Binary Search Tree implementation)
+* Min Heap (Iterative and Recursive implementations) ~~(via Binary Search Tree implementation)~~ now using list
+* Max Heap (Iterative and Recursive implementations) ~~(via Binary Search Tree implementation)~~ now using list
 * Graph (Directed and Undirected)
+  
+**Coming Up / In progress**
+* Tries
+* Red Black Tree
 
 The language I am using is Python.
   
